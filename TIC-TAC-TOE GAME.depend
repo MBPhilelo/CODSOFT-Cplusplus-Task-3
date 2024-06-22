@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719027818 source:c:\users\d\documents\school work\codsoft- c++\tic-tac-toe game\main.cpp
+	<iostream>
+	<vector>
+
